@@ -1,22 +1,32 @@
-# Hi, I'm Reena! 👋
-
-### 👩‍💻 Front-End Developer in Training
-I am a dedicated learner currently completing the **Meta Front-End Developer Professional Certificate**. I am passionate about building clean, functional, and stylish web applications.
+# 🌟 Meta JavaScript Practice
+> **Status:** Learning & Building | *Meta Front-End Professional Certificate*
 
 ---
 
-### 🛠 My Tech Stack
-* **Languages:** JavaScript (ES6+), HTML5, CSS3
-* **Tools:** Git, GitHub, VS Code
-* **Learning:** React, UI/UX Design Principles, and Version Control
+### 🚀 Overview
+This repository serves as a digital laboratory for my JavaScript journey. I’m focusing on writing **clean**, **efficient**, and **readable** code while mastering professional version control.
 
-### 📈 Current Focus
-- 🚀 Mastering JavaScript logic and function declaration.
-- 🎨 Creating stylized browser console outputs for better debugging.
-- 📂 Building a professional portfolio from the ground up.
+### 🛠 Tech & Tools
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 📂 Project Spotlight: `reenajava.js`
+This script demonstrates the power of **Function Logic** and **UI feedback** through the console.
+- [x] Declare complex functions
+- [x] Handle dynamic parameters
+- [x] Style browser logs with CSS-in-JS
 
 ---
 
-### 📫 Let's Connect!
-- **GitHub:** [reenaprogrammer](https://github.com/reenaprogrammer)
-- **Goal:** Open to junior developer roles and freelance collaborations once certification is complete!
+### 📊 Progress Tracker
+- [x] JavaScript Basics
+- [x] Git & GitHub Workflow
+- [ ] React Development (Coming Soon)
+- [ ] Professional Portfolio Deployment
+
+---
+
+### 🤝 Let's Connect
+If you're a fellow developer or a recruiter, feel free to check out my profile!
+**Profile:** [reenaprogrammer](https://github.com/reenaprogrammer)
