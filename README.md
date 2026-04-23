@@ -1,10 +1,22 @@
-## Hi there 👋
-Hi there 👋 I'm Reena!
-👩‍💻 Currently Learning: Front-End Development (Meta Professional Certificate)
+# Hi, I'm Reena! 👋
 
-🛠 Tech Stack: HTML5, CSS3, JavaScript (ES6+)
+### 👩‍💻 Front-End Developer in Training
+I am a dedicated learner currently completing the **Meta Front-End Developer Professional Certificate**. I am passionate about building clean, functional, and stylish web applications.
 
-🚀 Goal: Building high-performance, stylish web applications.
+---
 
-“Working on mastering function logic and console styling.”
--->
+### 🛠 My Tech Stack
+* **Languages:** JavaScript (ES6+), HTML5, CSS3
+* **Tools:** Git, GitHub, VS Code
+* **Learning:** React, UI/UX Design Principles, and Version Control
+
+### 📈 Current Focus
+- 🚀 Mastering JavaScript logic and function declaration.
+- 🎨 Creating stylized browser console outputs for better debugging.
+- 📂 Building a professional portfolio from the ground up.
+
+---
+
+### 📫 Let's Connect!
+- **GitHub:** [reenaprogrammer](https://github.com/reenaprogrammer)
+- **Goal:** Open to junior developer roles and freelance collaborations once certification is complete!
